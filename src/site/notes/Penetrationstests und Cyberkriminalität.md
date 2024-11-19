@@ -33,6 +33,6 @@
 29. [Brute Force Calculator](https://www.proxynova.com/tools/brute-force-calculator)
 30. [PC-Gamer WPA3](https://www.pcgamer.com/dollar125-is-all-it-would-cost-a-hacker-to-crack-your-wpa3-password-researchers-say/) [PC-Mag WPA3](https://www.pcmag.com/news/flaws-in-wi-fis-new-wpa3-protocol-can-leak-a-networks-password)
 31. [Hak5 - Hacking WPA3 with Mathy Vanhoef & Retia](https://www.youtube.com/watch?v=44I1wfgGT80)
-32. [[Dragonblood- Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd.pdf]]
+32. [Dragonblood WPA3 Paper](https://papers.mathyvanhoef.com/dragonblood.pdf)
 33. [CHIP - Passwort Manager](https://www.chip.de/artikel/Test-Die-besten-Passwort-Manager-Vergleich_182620837.html)
 34. [Tom's Guide - Passkeys](https://www.tomsguide.com/news/what-are-passkeys)
