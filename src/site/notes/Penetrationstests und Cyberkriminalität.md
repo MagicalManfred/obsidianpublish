@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/penetrationstests-und-cyberkriminalitaet/"}
 ---
 
+# Quellen:
 1. [Wikipedia - Hacker](https://de.wikipedia.org/wiki/Hacker)
 2. [Wikipedia - Hack/Kludge](https://en.wikipedia.org/wiki/Kludge#Computer_science)
 3. [Cisco - Hacker](https://www.cisco.com/c/en/us/products/security/what-is-a-hacker.html)
@@ -36,3 +37,10 @@
 32. [Dragonblood WPA3 Paper](https://papers.mathyvanhoef.com/dragonblood.pdf)
 33. [CHIP - Passwort Manager](https://www.chip.de/artikel/Test-Die-besten-Passwort-Manager-Vergleich_182620837.html)
 34. [Tom's Guide - Passkeys](https://www.tomsguide.com/news/what-are-passkeys)
+# Im Video speziell empfohlen:
+- [What Is Pentesting? How Does It Work Step-by-Step? - hakerone](https://www.hackerone.com/knowledge-center/what-penetration-testing-how-does-it-work-step-step) 
+- [I Made a Wifi Cracking Van - Linus Tech Tips](https://www.youtube.com/watch?v=i9TJWsuzBLU)
+- [c't - So hackt man WLANs](https://www.youtube.com/watch?v=CM_Q1IWNj9o)
+- [Network lessons - WPA 4-Way Handshake](https://networklessons.com/cisco/ccnp-encor-350-401/wpa-and-wpa2-4-way-handshake)
+- [CHIP - Passwort Manager](https://www.chip.de/artikel/Test-Die-besten-Passwort-Manager-Vergleich_182620837.html)
+- [Tom's Guide - Passkeys](https://www.tomsguide.com/news/what-are-passkeys)
