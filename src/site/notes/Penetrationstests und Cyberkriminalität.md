@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/penetrationstests-und-cyberkriminalitaet/"}
+{"dg-publish":true,"permalink":"/penetrationstests-und-cyberkriminalitaet/","tags":["gardenEntry"]}
 ---
 
 # Quellen:
