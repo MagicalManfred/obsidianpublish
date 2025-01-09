@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testpage/"}
+{"dg-publish":true,"permalink":"/testpage/","tags":["gardenEntry"]}
 ---
 
-Just a simple test. Here is a link [[Penetrationstests und Cyberkriminalität\|Penetrationstests und Cyberkriminalität]].
+Just a simple test. Justin is a GOAT.
