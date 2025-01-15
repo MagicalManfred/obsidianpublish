@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testpage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/testpage/"}
 ---
 
 Diverse Handouts:
