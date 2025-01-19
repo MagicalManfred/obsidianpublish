@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/neue-musik-recap/"}
 ---
 
+# Neue Musik Recap
 >"Sir Thomas Beecham was asked if he had ever conducted any Stockhausen. He said, 'No, but I once trod in some.'"
 
 *- Karlheinz Stockhausen*
