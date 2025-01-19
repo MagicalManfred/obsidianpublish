@@ -7,4 +7,4 @@
 # Diverse Handouts:
 - [[Kondensator und Dielektrikum - Handout\|Kondensator und Dielektrikum - Handout]]
 - [[Neue Musik - Recap\|Neue Musik - Recap]]
-- [[Testpage\|Testpage]]
+- [[Testpage renamed\|Testpage renamed]]
