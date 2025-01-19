@@ -6,9 +6,7 @@
 >"Sir Thomas Beecham was asked if he had ever conducted any Stockhausen. He said, 'No, but I once trod in some.'"
 
 *- Karlheinz Stockhausen*
-<div style="text-align: center">
 ![Weg Brücke Herbst.jpg](/img/user/Weg%20Br%C3%BCcke%20Herbst.jpg)
-</div>
 ## Struktur
 - Was steckt hinter den Kompositionen und Kompositionstechniken (12-Ton Technik). Begriffe (Cluster, Schemata, Arpeggios, Programmmusik).
 - Ursprung der neuen Musik wiederholen.
