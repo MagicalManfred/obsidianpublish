@@ -3,6 +3,7 @@
 ---
 
 # Neue Musik Recap
+![Weg Brücke Herbst.jpg](/img/user/Weg%20Br%C3%BCcke%20Herbst.jpg)
 >"Sir Thomas Beecham was asked if he had ever conducted any Stockhausen. He said, 'No, but I once trod in some.'"
 
 *- Karlheinz Stockhausen*
