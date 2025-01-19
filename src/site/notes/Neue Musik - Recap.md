@@ -36,7 +36,6 @@
 - Tontrauben, einzelne Töne werden wie in einem Sandwich geschichtet, ohne Rücksicht auf melodische oder rhythmische Entwicklung
 - Dichte ist abhängig von der Lage der Einzeltöne abhängig → bestimmen Klangfarben des Cluster, so auch Instrumentation
 - Einzeltöne manschen zusammen zu einem einheitlichen Klang- oder Geräuschband
-
 1. Statisch stehender Cluster → ausgehaltene Töne ohne jede Bewegung
 2. Stehender Cluster mit innerer Bewegung → größere oder kleinere Bewegungsvorgänge innerhalb in Gesamtheit stehenden Clusters
 3. Bewegter Cluster → everything is moving baby (auf- abwärts, verengt oder erweitert)

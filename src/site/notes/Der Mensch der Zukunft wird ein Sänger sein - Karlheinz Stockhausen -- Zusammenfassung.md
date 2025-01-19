@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/der-mensch-der-zukunft-wird-ein-saenger-sein-karlheinz-stockhausen-zusammenfassung/"}
 ---
 
-Stockhausen gehe nicht ins Konzert/Oper - er möchte etwas neues erleben
+# Der Mensch der Zukunft wird ein Sänger sein - Zusammenfassung
+- Stockhausen gehe nicht ins Konzert/Oper - er möchte etwas neues erleben
 - Er finde ohne zu suchen, vor allem bei seiner Arbeit
 - Er fange nichts an, wenn es ihn nicht fasziniert
 - Stockhausen ist nicht der Ansicht, dass es etwas Bekanntes in der Musik braucht - er sei vom Fremden beeindruckt
