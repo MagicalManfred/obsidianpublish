@@ -54,7 +54,10 @@
 	- Intention des Komponisten (meist durch Titel, Zitat etc. erklärt)
 	- Stellungnahme basierend auf musikalischen Mitteln
 ## Zusammenfassung verschiedener im Unterricht behandelter Texte
--  [[Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen -- Zusammenfassung\|Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen -- Zusammenfassung]]
+-  [[Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen\|Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen]]
+- [[Was ist eigentlich Neue Musik - Barbara Barthelmes\|Was ist eigentlich Neue Musik - Barbara Barthelmes]]
+- [[Auszug aus „Der Beruf des Komponisten“ - Karlheinz Stockhausen\|Auszug aus „Der Beruf des Komponisten“ - Karlheinz Stockhausen]]
+- [[Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael - Braun\|Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael - Braun]]
 ## Im Unterricht behandelte Stücke
 ### Luciano Berio - Sequenza XIVa for Cello
 - [Luciano Berio - Sequenza XIVa for Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
