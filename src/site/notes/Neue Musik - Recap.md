@@ -60,7 +60,7 @@
 - [[Auszug aus „Der Beruf des Komponisten“ - Karlheinz Stockhausen\|Auszug aus „Der Beruf des Komponisten“ - Karlheinz Stockhausen]]
 - [[Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael Braun\|Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael Braun]]
 - [[Weniger Neue Musik\|Weniger Neue Musik]]
-- 
+- [[„Wenn ich es nicht tue, sterbe ich“ - Tonkünstler im Portrait mit Adriana Hölszky\|„Wenn ich es nicht tue, sterbe ich“ - Tonkünstler im Portrait mit Adriana Hölszky]]
 ## Im Unterricht behandelte Stücke
 ### Luciano Berio - Sequenza XIVa for Cello
 - [Luciano Berio - Sequenza XIVa for Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
