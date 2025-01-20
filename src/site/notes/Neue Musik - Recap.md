@@ -3,21 +3,21 @@
 ---
 
 # Neue Musik Recap
->„Sir Thomas Beecham was asked if he had ever conducted any Stockhausen. He said, ‚No, but I once trod in some.‘“
+>„Sir Thomas Beecham was asked if he had ever conducted any Stockhausen. He said, «No, but I once trod in some.»“
 
 *- Karlheinz Stockhausen*
 ## Struktur
 - Was steckt hinter den Kompositionen und Kompositionstechniken (12-Ton Technik). Begriffe (Cluster, Schemata, Arpeggios, Programmmusik).
 - Ursprung der neuen Musik wiederholen.
 - Recap der Stücke
-	-  Luciano Berio - Sequenza XIVa for Cello (Audio + Score)
-	- De Profundis
-	- Central Park In The Dark
-	- Schreiben
-	- Monolog für Sängerin und Pauke
-	- Ligeti: Lux Aeterna
-	- Stockhausen: Richtige Dauern
-	- The Ledge
+	-  *Luciano Berio* - Sequenza XIVa für Cello
+	- *София Асгатовна Губайдулина* - De Profundis
+	- *Charles Ives* - Central Park In The Dark
+	- *Helmut Lachenmann* - Schreiben
+	- *Adriana Hölszky* - Monolog für Sängerin und Pauke
+	- *György Ligeti* - Lux Aeterna
+	- *Karlheinz Stockhausen* - Richtige Dauern
+	- *Moritz Greven & Jonah Schröder* - The Ledge
 ## Basics:
 - ==Sammelbegriff== für **unterschiedliche** Strömungen der westlichen Musik ab 1910 bis jetzt - keine klar umrissene Epoche
 - Extreme ==Erweiterung== der **Techniken** und **Ausdrucksweisen** (Harmonik, Rhythmik, Klang etc. pp.) bzw. ==Traditionsbruch== (Bsp.: andere Verwendung eines Instruments als einst intendiert)
