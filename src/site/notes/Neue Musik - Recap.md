@@ -59,26 +59,25 @@
 ### Luciano Berio - Sequenza XIVa for Cello
 - [Luciano Berio - Sequenza XIVa for Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
 - [Luciano Berio - Sequenza XIVa for Cello - Apple Music Classical](https://classical.music.apple.com/de/recording/luciano-berio-1925-pp154-407793153?l=en-GB)
-### De Profundis
+### Sofia Gubaidulina - De Profundis
 - [De Profundis - Sofia Gubaidulina - YouTube](https://www.youtube.com/watch?v=uhSqQBGSX9g)
 - [De Profundis - Sofia Gubaidulina - Apple Music Classical](https://classical.music.apple.com/de/album/268115038?i=268116869&l=en-GB)
-### Central Park In The Dark
+### Charles Ives - Central Park In The Dark
 - [Charles Ives - Central Park in the Dark - YouTube](https://www.youtube.com/results?search_query=central%20park%20in%20the%20dark%20charles%20ives)
 - [Charles Ives - Central Park in the Dark - Apple Music Classical](https://classical.music.apple.com/de/album/1362107969?i=1362109303&l=en-GB)
-### Unanswered Question
+### Charles Ives - Unanswered Question
 - [Charles Ives - The Unanswered Question - YouTube](https://www.youtube.com/watch?v=kkaOz48cq2g)
 - [Charles Ives - The Unanswered Question - Apple Music Classical](https://classical.music.apple.com/de/album/1452541275?i=1452541959&l=en-GB)
-### Schreiben (nicht abirelevant)
+### Helmut Lachenmann - Schreiben (nicht abirelevant)
 - [Helmut Lachenmann - Schreiben - YouTube](https://www.youtube.com/watch?v=GWEuqv-9z3w)
 - [Helmut Lachenmann - Schreiben - Apple Music Classical](https://classical.music.apple.com/de/album/1186854557?i=1186854595&l=en-GB)
-### Monolog für Sängerin und Pauke
-- [Monolog für Sängerin und Pauke - YouTube](https://www.youtube.com/watch?v=vNZ3d2Vyy_Q)
-- 
+### Adriana Hölsky - Monolog für Sängerin und Pauke
+- [Adriana Hölsky - Monolog für Sängerin und Pauke - YouTube](https://www.youtube.com/watch?v=vNZ3d2Vyy_Q)
+- [Adriana Hölsky - Monolog für Sängerin und Pauke](https://classical.music.apple.com/de/album/1114040984?i=1114042511&l=en-GB)
 ### György Ligeti - Lux Aeterna
 - [György Ligeti - Lux Aeterna - YouTube](https://www.youtube.com/watch?v=vcx-4olgf10)
-- 
+- [Györgi Ligeti - Lux Aeterna - Apple Music Classical](https://classical.music.apple.com/de/album/293897391?i=293897542&l=en-GB)
 ### Karlheinz Stockhausen - Richtige Dauern
 - [Karlheinz Stockhausen - Richtige Dauern - YouTube](https://www.youtube.com/watch?v=C03Ag3ZV8XU)
-- 
 ### The Ledge
-![[THELEDGE.mp3]]
+- [THELEDGE-441.wav](https://mcggehrdende-my.sharepoint.com/:u:/g/personal/jonah_schroeder_mcggehrden_de/ET3Qz2rWgqxNsSM-pgbzhJAB0qloot2XTx_kLthv0dv0hQ)
