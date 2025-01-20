@@ -55,7 +55,7 @@
 	- Stellungnahme basierend auf musikalischen Mitteln
 ## Zusammenfassung verschiedener im Unterricht behandelter Texte
 -  [[Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen -- Zusammenfassung\|Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen -- Zusammenfassung]]
-## Recap der Stücke
+## Im Unterricht gegönnte Stücke (bei einem Joint)
 ### Luciano Berio - Sequenza XIVa for Cello
 - [Luciano Berio - Sequenza XIVa for Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
 - [Luciano Berio - Sequenza XIVa for Cello - Apple Music Classical](https://classical.music.apple.com/de/recording/luciano-berio-1925-pp154-407793153?l=en-GB)
