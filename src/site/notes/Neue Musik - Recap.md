@@ -62,9 +62,9 @@
 - [[Weniger Neue Musik\|Weniger Neue Musik]]
 - [[„Wenn ich es nicht tue, sterbe ich“ - Tonkünstler im Portrait mit Adriana Hölszky\|„Wenn ich es nicht tue, sterbe ich“ - Tonkünstler im Portrait mit Adriana Hölszky]]
 ## Im Unterricht behandelte Stücke
-### Luciano Berio - Sequenza XIVa for Cello
-- [Luciano Berio - Sequenza XIVa for Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
-- [Luciano Berio - Sequenza XIVa for Cello - Apple Music Classical](https://classical.music.apple.com/de/recording/luciano-berio-1925-pp154-407793153?l=en-GB)
+### Luciano Berio - Sequenza XIVa für Cello
+- [Luciano Berio - Sequenza XIVa für Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
+- [Luciano Berio - Sequenza XIVa für Cello - Apple Music Classical](https://classical.music.apple.com/de/recording/luciano-berio-1925-pp154-407793153?l=en-GB)
 ### Sofia Gubaidulina - De Profundis
 - [De Profundis - Sofia Gubaidulina - YouTube](https://www.youtube.com/watch?v=uhSqQBGSX9g)
 - [De Profundis - Sofia Gubaidulina - Apple Music Classical](https://classical.music.apple.com/de/album/268115038?i=268116869&l=en-GB)
