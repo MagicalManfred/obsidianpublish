@@ -39,7 +39,7 @@
 1. Statisch stehender Cluster → ausgehaltene Töne ohne jede Bewegung
 2. Stehender Cluster mit innerer Bewegung → größere oder kleinere Bewegungsvorgänge innerhalb in Gesamtheit stehenden Clusters
 3. Bewegter Cluster → everything is moving baby (auf- abwärts, verengt oder erweitert)
-## Wie analysiert man ein neues Musikstück
+## Wie analysiert man ein Neues Musikstück?
 - Wichtig ist der Bezug zum Titel
 - auf einen bestimmten oder geregelten oder Ablauf (z.B. nach Wohlklang und unangenehmen Klängen untersuchen)
 - Formanalyse (Kleinere Formen wie Marsch, Rondo etc. pp.)
