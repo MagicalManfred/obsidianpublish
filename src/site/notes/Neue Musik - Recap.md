@@ -83,6 +83,7 @@
 ### György Ligeti - Lux Aeterna
 - [György Ligeti - Lux Aeterna - YouTube](https://www.youtube.com/watch?v=vcx-4olgf10)
 - [Györgi Ligeti - Lux Aeterna - Apple Music Classical](https://classical.music.apple.com/de/album/293897391?i=293897542&l=en-GB)
+- [[Infotext zu „Lux Aeterna“\|Infotext zu „Lux Aeterna“]]
 ### Karlheinz Stockhausen - Richtige Dauern
 - [Karlheinz Stockhausen - Richtige Dauern - YouTube](https://www.youtube.com/watch?v=C03Ag3ZV8XU)
 ### Jonah Schröder und der Andere - The Ledge
