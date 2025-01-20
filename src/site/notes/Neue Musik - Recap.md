@@ -12,7 +12,7 @@
 - Recap der Stücke
 	-  *Luciano Berio* - Sequenza XIVa für Cello
 	- *Sofia Asgatowna Gubaidulina* - De Profundis
-	- *Charles Ives* - Central Park In The Dark
+	- *Charles Ives* - Central Park In The Dark & Unanswered Question
 	- *Helmut Lachenmann* - Schreiben
 	- *Adriana Hölszky* - Monolog für Sängerin und Pauke
 	- *György Ligeti* - Lux Aeterna
@@ -58,7 +58,7 @@
 -  [[Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen\|Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen]]
 - [[Was ist eigentlich Neue Musik - Barbara Barthelmes\|Was ist eigentlich Neue Musik - Barbara Barthelmes]]
 - [[Auszug aus „Der Beruf des Komponisten“ - Karlheinz Stockhausen\|Auszug aus „Der Beruf des Komponisten“ - Karlheinz Stockhausen]]
-- [[Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael - Braun\|Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael - Braun]]
+- [[Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael Braun\|Auszüge aus „Krank durch zeitgenössische Musik“ und „Freiheit oder totales Chaos“ - Karl-Heinz Preuß und Peter Michael Braun]]
 ## Im Unterricht behandelte Stücke
 ### Luciano Berio - Sequenza XIVa for Cello
 - [Luciano Berio - Sequenza XIVa for Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
@@ -69,6 +69,8 @@
 ### Charles Ives - Central Park In The Dark
 - [Charles Ives - Central Park in the Dark - YouTube](https://www.youtube.com/results?search_query=central%20park%20in%20the%20dark%20charles%20ives)
 - [Charles Ives - Central Park in the Dark - Apple Music Classical](https://classical.music.apple.com/de/album/1362107969?i=1362109303&l=en-GB)
+Das 1906 für Kammerorchester komponierte Stück „The Unanswered Question" ist eines der außergewöhnlichsten Werke der Musik des 20. Jahrhunderts. Die im Programm erwähnte „Frage nach dem Sinn des Lebens" konkretisiert sich hier zur Frage nach dem Sinn der überlieferten musikalischen Gestaltungsmittel und nach der Möglichkeit, Neues zu entdecken. Dieses Neue spiegelt sich dabei nicht nur in der Wahl der zugrunde liegenden Harmonik und Melodik, die den Bereich des Tonalen zu verlassen scheint, sondern auch in der formalen Anlage des Stückes und seiner außergewöhnlich eindrucksvollen Instrumentation. Den Streichinstrumenten mit ihrem Klangteppich aus scheinbar unendlichen Haltetönen stehen dabei das einsame, sechsmal wiederholte Rufen der Solo-Trompete sowie die nervösen und zunehmend unruhiger werdenden Antworten der Holzbläser gegenüber. Jede dieser drei Gruppen scheint für sich zu spielen, in ihrem eigenen Tempo, ihrer eigenen Tonart. Doch trotz dieses scheinbaren Nebeneinanders nehmen sie immer wieder Bezug aufeinander, was Charles Ives selbst wie folgt beschreibt:
+>„Die Streicher spielen durchweg *ppp* ohne Tempowechsel. Sie sollen ,Das Schweigen der Druiden' darstellen, ,die nichts wissen, nichts sehen und nichts hören'. Die Trompete intoniert ,Die ewige Frage des Seins' und stellt sie jedes Mal im gleichen Tonfall. Aber die Jagd nach der ,Unsichtbaren Antwort', auf die sich die Flöten und andere menschliche Wesen begeben, wird immer lebhafter. \[...] Im Laufe der Zeit und nach einer ,geheimen Besprechung' scheinen die ‚Kämpferischen Antworten' die Nutzlosigkeit ihrer Bemühungen einzusehen und beginnen, ,Die Frage' zu verspotten - der Streit ist für den Augenblick beendet. Nachdem die antwortenden Stimmen verschwunden sind, wird ‚Die Frage' ein letztes Mal gestellt, und man hört ,Das Schweigen' in ,Ungestörter Einsamkeit'. "
 ### Charles Ives - Unanswered Question
 - [Charles Ives - The Unanswered Question - YouTube](https://www.youtube.com/watch?v=kkaOz48cq2g)
 - [Charles Ives - The Unanswered Question - Apple Music Classical](https://classical.music.apple.com/de/album/1452541275?i=1452541959&l=en-GB)

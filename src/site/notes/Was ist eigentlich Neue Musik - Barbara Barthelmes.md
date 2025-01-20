@@ -8,4 +8,5 @@
 - Bruch mit dem Vergangenen durch Arnold Schönberg, Alban Berg und Anton Werbern
 - Innovationen in allen Hinsichten (Harmonik, Rhythmus, Klangfarbe etc...)
 - Revolution und Befreiung aus musikalischen Konventionen
-- Anstrengend für Hörer\*innen 
+- Anstrengend für Hörer\*innen aufgrund des Mangels eines harmonischen Bezugspunkt
+- Außerdem gibt es neue Formen und Techniken → viele Komponisten liefern „Bedienungsanleitungen“ zu ihren Werken mit (Bsp. Helmut Lachenmann)
