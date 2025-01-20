@@ -7,7 +7,7 @@
 - Rubrik „Nota bene – Tonkünstler im Porträt“:        
 	- Ziel: Hervorhebung interessanter Persönlichkeiten und Berufsbilder aus dem Tonkünstlerverband Baden-Württemberg.
 	- Porträtiert wird Adriana Hölszky, eine bedeutende zeitgenössische Komponistin, die am 30. Juni 60 Jahre alt wird.
-___
+---
 ### Adriana Hölszky – Persönliches:
 - **Lebensweg:**
 	- Geboren 1953 in Bukarest, Rumänien.
