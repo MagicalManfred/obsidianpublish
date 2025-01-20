@@ -43,6 +43,7 @@
 - Wichtig ist der Bezug zum Titel
 - auf einen bestimmten oder geregelten oder Ablauf (z.B. nach Wohlklang und unangenehmen Klängen untersuchen)
 - Formanalyse (Kleinere Formen wie Marsch, Rondo etc. pp.)
+- Höreindruck
 - **Einleitung:**
 	- Werk, Komponist, Entstehungsjahr etc.
 - **Hauptteil:**
