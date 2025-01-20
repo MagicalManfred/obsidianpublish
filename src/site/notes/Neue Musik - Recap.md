@@ -69,6 +69,7 @@
 ### Charles Ives - Central Park In The Dark
 - [Charles Ives - Central Park in the Dark - YouTube](https://www.youtube.com/results?search_query=central%20park%20in%20the%20dark%20charles%20ives)
 - [Charles Ives - Central Park in the Dark - Apple Music Classical](https://classical.music.apple.com/de/album/1362107969?i=1362109303&l=en-GB)
+- [[Infotext zu „Central Park In The Dark“\|Infotext zu „Central Park In The Dark“]]
 ### Charles Ives - Unanswered Question
 - [Charles Ives - The Unanswered Question - YouTube](https://www.youtube.com/watch?v=kkaOz48cq2g)
 - [Charles Ives - The Unanswered Question - Apple Music Classical](https://classical.music.apple.com/de/album/1452541275?i=1452541959&l=en-GB)
