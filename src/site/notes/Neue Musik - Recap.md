@@ -88,5 +88,5 @@
 - [[Infotext zu „Lux Aeterna“\|Infotext zu „Lux Aeterna“]]
 ### Karlheinz Stockhausen - Richtige Dauern
 - [Karlheinz Stockhausen - Richtige Dauern - YouTube](https://www.youtube.com/watch?v=C03Ag3ZV8XU)
-### Jonah Schröder und der Andere - The Ledge
+### Moritz Greven & Jonah Schröder - The Ledge
 - [THELEDGE-441.wav](https://mcggehrdende-my.sharepoint.com/:u:/g/personal/jonah_schroeder_mcggehrden_de/ET3Qz2rWgqxNsSM-pgbzhJAB0qloot2XTx_kLthv0dv0hQ)
