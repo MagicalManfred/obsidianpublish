@@ -3,20 +3,18 @@
 ---
 
 # Der Mensch der Zukunft wird ein Sänger sein - Zusammenfassung
-- Stockhausen gehe nicht ins Konzert/Oper - er möchte etwas neues erleben
-- Er finde ohne zu suchen, vor allem bei seiner Arbeit
-- Er fange nichts an, wenn es ihn nicht fasziniert
-- Stockhausen ist nicht der Ansicht, dass es etwas Bekanntes in der Musik braucht - er sei vom Fremden beeindruckt
-- Stockhausen hat (seiner Meinung nach) nicht mit der Tradition gebrochen
-	- Im Gegenteil habe er Klavier und Schulmusik studiert und Werke diverser bekannter Komponisten gespielt
-	- Er habe sich sehr für die Anerkennung (der Gesellschaft) von Weber eingesetzt
-- Trend sei neoromantisch zu komponieren
-- Einen Adressaten seiner Kompositionen, z.B. ein Publikum gäbe es nicht, er freut sich aber über eins - seine Werke seien nie für jemanden
-- Seine Werke seien sehr probenaufwändig
-- Er wende sich ab vom Althergebrachten und klassifiziert den Trend junger Komponisten bekanntes zu komponieren als dekadent
-- Ein Werk von ihm setze voraus, dass sich die Musiker im Publikum befinden und auswendig spielen - das als Gegensatz zur herkömmlichen Orchestermusik
-- Die Klangfarbe eines Stückes sei für Stockhausen so wichtig die Tonhöhe, und die sei bei einem Orchester immer ähnlich, außerdem bemängelt er die Hierarchie, vom Dirigenten zu den Musikern
-- Stockhausen geht davon aus, dass der differenzierte Mensch der Zukunft ein Sänger sein wird
-	- Er verweist auf die chinesische Kultur, wo ein und derselbe Laut in einer unterschiedlichen Tonhöhe etwas anderes bedeute
-	- Die Musik sei nach ihm "die feinste, die ätherischste, die immateriellste Sprache, die es überhaupt gibt"
-	- Jegliche Schwingung sei für ihn Musik
+-  Stockhausen meidet das Opernhaus, da ihn der herkömmliche Spielplan nicht interessiert
+- ﻿﻿Sein Interesse gilt Musik, die ihn erstaunt und zur Vertiefung durch Studium anregt
+- ﻿﻿Die Suche nach Neuem ist für ihn nicht beabsichtigt, sondern er findet meistens ohne gezielte Suche
+- ﻿﻿Stockhausen arbeitet praktisch und macht viele seiner Entdeckungen während der Realisation in Studios
+- ﻿﻿Er verteidigt seine Kenntnisse der Tradition, insbesondere seine Auseinandersetzung mit Webern und dessen Aufführung vehement
+- Stockhausen hat Klavier und Schulmusik studiert
+- ﻿﻿Das zyklische Schaffen mit Werken wie "Licht" erfordert intensive Vorbereitung und Proben, besonders mit modernen Technologien
+- ﻿﻿Er sieht einen Trend zur Rückkehr in traditionelle Kompositionspraktiken, was er als dekadent betrachtet
+- ﻿﻿Stockhausen betont die Notwendigkeit der Integration moderner Elektronik in die Kompositionspraxis und sieht die Zukunft in reduzierten Ensembles
+- ﻿﻿Die konventionelle Orchesterpraxis kritisiert er als Klischee, das seiner Meinung nach die Vielfalt der Klangfarben vernachlässigt
+- ﻿﻿Er komponiert ohne explizites Publikum im Sinn, freut sich jedoch über die Anerkennung von Musikern
+- ﻿﻿Für die Zukunft sieht er einen differenzierteren Menschen, der singen lernt und in musikalischen Kategorien denkt
+- ﻿﻿Stockhausen betrachtet Musik als die feinste Sprache, sogar repräsentativ für
+- Schwingungen außerirdischer Welten
+- ﻿﻿Trotzdem erkennt er an, dass Menschen weiterhin Musik anderer hören und für andere musizieren werden
