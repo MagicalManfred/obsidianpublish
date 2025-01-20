@@ -11,7 +11,7 @@
 - Ursprung der neuen Musik wiederholen.
 - Recap der Stücke
 	-  *Luciano Berio* - Sequenza XIVa für Cello
-	- *София Асгатовна Губайдулина* - De Profundis
+	- *Sofia Asgatowna Gubaidulina* - De Profundis
 	- *Charles Ives* - Central Park In The Dark
 	- *Helmut Lachenmann* - Schreiben
 	- *Adriana Hölszky* - Monolog für Sängerin und Pauke
@@ -55,7 +55,7 @@
 	- Stellungnahme basierend auf musikalischen Mitteln
 ## Zusammenfassung verschiedener im Unterricht behandelter Texte
 -  [[Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen -- Zusammenfassung\|Der Mensch der Zukunft wird ein Sänger sein - Karlheinz Stockhausen -- Zusammenfassung]]
-## Im Unterricht gegönnte Stücke (bei einem Joint)
+## Im Unterricht behandelte Stücke
 ### Luciano Berio - Sequenza XIVa for Cello
 - [Luciano Berio - Sequenza XIVa for Cello - YouTube](https://www.youtube.com/watch?v=nyTAZ4qqXpg)
 - [Luciano Berio - Sequenza XIVa for Cello - Apple Music Classical](https://classical.music.apple.com/de/recording/luciano-berio-1925-pp154-407793153?l=en-GB)
@@ -74,6 +74,11 @@
 ### Monolog für Sängerin und Pauke
 - [Monolog für Sängerin und Pauke - YouTube](https://www.youtube.com/watch?v=vNZ3d2Vyy_Q)
 - 
-### Ligeti: Lux Aeterna
-### Stockhausen: Richtige Dauern
+### György Ligeti - Lux Aeterna
+- [György Ligeti - Lux Aeterna - YouTube](https://www.youtube.com/watch?v=vcx-4olgf10)
+- 
+### Karlheinz Stockhausen - Richtige Dauern
+- [Karlheinz Stockhausen - Richtige Dauern - YouTube](https://www.youtube.com/watch?v=C03Ag3ZV8XU)
+- 
 ### The Ledge
+![[THELEDGE.mp3]]
