@@ -17,6 +17,7 @@
 - Dem Zurückziehen durch Sport etwas entgegensetzen - gerne auch in der Natur → Ablenkungshypothese \[3]
 - Unterschied zu Antidepressiva, man macht etwas aktiv und nicht passiv \[3]
 - Laufen ersetzt keine Psychotherapie, aber den Weg aus einer Depression ebnen - das wichtigste ist einmal am Tag überhaupt rauszugehen und sich nicht zurückzuziehen \[3]
+- Ich selber möchte nochmal meditieren ansprechen (ist actually hilfreich und kein Eso-Mist)
 ### Key-Elemente
 - Trennen von Arbeit und Leben
 - Erfolgsgefühl des „Was-Gemacht-Haben“
