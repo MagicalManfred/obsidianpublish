@@ -3,21 +3,19 @@
 ---
 
 ## Stress durch Sport nachhaltig vermeiden und dadurch besser fühlen (Jonah)
-- Hormongleichgewicht wieder herstellen (mehr Glückshormone) \[1]
-- Regelmäßigkeit ist wichtig → denn dann hat man auch im Alltag ein besseres Hormongleichgewicht \[1,2]
-	- Das ganze nennt man fachsprachlich den Stresspuffer der durch langanhaltendes Training verbessert wird \[4]
-- man fühlt sich nach dem Sport gut \[2, selber]
-	- Distanz zur Arbeit zum Beispiel (vom Sitzen ins Auto wieder zum Sitzen) \[2]
-- „Die Deutsche Gesellschaft für Sportmedizin und Prävention (DGSP) \[rät] zu mindestens 150 Minuten moderatem Ausdauersport pro Woche“ \[2]
-- Sport muss Spaß machen, damit man das halt auch wirklich durchzieht \[2]
-	- man sollte sich durch den Sport allerdings keine weitere Stressquelle zu ziehen und es so übertreiben \[2]
-- Gute Durchblutung und und Veränderung des Stoffwechsels durch Laufen \[3]
-	- Auch das Hirn wird einmal durchgepustet \[5]
-- Erfolgsgefühle durch Laufen - Leute mit Depressionen haben lange keine Erfolgeerlebnisse erlangt \[3]
-- Dem Zurückziehen durch Sport etwas entgegensetzen - gerne auch in der Natur → Ablenkungshypothese \[3]
-- Unterschied zu Antidepressiva, man macht etwas aktiv und nicht passiv \[3]
-- Laufen ersetzt keine Psychotherapie, aber den Weg aus einer Depression ebnen - das wichtigste ist einmal am Tag überhaupt rauszugehen und sich nicht zurückzuziehen \[3]
-- Ich selber möchte nochmal meditieren ansprechen (ist actually hilfreich und kein Eso-Mist)
+- **Hormongleichgewicht** wieder herstellen (mehr Glückshormone) \[1]
+- **Regelmäßigkeit** ist wichtig → weniger empfindlich im **Alltag** \[1,2]
+	- „Die Deutsche Gesellschaft für Sportmedizin und Prävention (DGSP) \[rät] zu mindestens **150 Minuten moderatem Ausdauersport** pro Woche“ \[2]
+	- Das ganze nennt man fachsprachlich den **Stresspuffer** der durch langanhaltendes Training verbessert wird \[4]
+- Gute Durchblutung und und Veränderung des **Stoffwechsels** durch Laufen \[3]
+	- Auch das **Hirn** wird einmal **durchgepustet** \[5]
+- man fühlt sich nach dem **Sport gut** \[2, selber]
+	- **Distanz** zur Arbeit zum Beispiel (vom Sitzen ins Auto wieder zum Sitzen) \[2]
+- Sport muss **Spaß** machen, damit man das halt auch wirklich durchzieht \[2]
+	- man sollte sich durch den Sport allerdings **keine weitere Stressquelle** zu ziehen und es so übertreiben \[2]
+- **Erfolgsgefühle durch Laufen** - Leute mit Depressionen haben lange keine Erfolgserlebnisse erlangt \[3]
+- Dem **Zurückziehen** durch Sport etwas entgegensetzen - gerne auch in der Natur → Ablenkungshypothese \[3]
+- **Unterschied zu Antidepressiva**, man macht etwas **aktiv** und nicht passiv \[3]
 ### Key-Elemente
 - Trennen von Arbeit und Leben
 - Erfolgsgefühl des „Was-Gemacht-Haben“
