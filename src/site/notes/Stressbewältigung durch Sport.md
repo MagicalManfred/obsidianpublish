@@ -14,12 +14,13 @@
 - Sport muss **Spaß** machen, damit man das halt auch wirklich durchzieht \[2]
 	- man sollte sich durch den Sport allerdings **keine weitere Stressquelle** zu ziehen und es so übertreiben \[2]
 - **Erfolgsgefühle durch Laufen** - Leute mit Depressionen haben lange keine Erfolgserlebnisse erlangt \[3]
+- **Gruppengefühl**
 - Dem **Zurückziehen** durch Sport etwas entgegensetzen - gerne auch in der Natur → Ablenkungshypothese \[3]
 - **Unterschied zu Antidepressiva**, man macht etwas **aktiv** und nicht passiv \[3]
 ### Key-Elemente
 - Trennen von Arbeit und Leben
 - Erfolgsgefühl des „Was-Gemacht-Haben“
-- Gruppengefühl
+- Hormongleichgewicht
 - Laufen vs. Depression
 # Quellen
 1. [Mit Sport Stress abbauen - Techniker](https://www.tk.de/techniker/magazin/life-balance/aktiv-entspannen/stress-abbauen-mit-sport-und-bewegung-2093232?tkcm=ab)
