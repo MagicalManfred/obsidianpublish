@@ -6,7 +6,8 @@
 Die generelle Exponentialfunktion: $U(t) = U_0 \cdot \frac{1}{2}^{\frac{t}{t_{H}}}$ → als e-Funktion: $U(t) = U_0 \cdot e^{-ln(2) \cdot \frac{t}{t_{H}}}$
 ___
 Folgender Zusammenhang liegt im Experiment am Ende vor:
-$U_R + U_C = U_{ges} = 0$ (mit $U=\frac{Q}{C}$ und $U_R = I(t) \cdot R$) → 
+$U_R + U_C = U_{ges} = 0$ (mit $U=\frac{Q}{C}$ und $U_R = I(t) \cdot R$)
+*→ die Summe der Teilspannungen ist daher $= 0$, dass ein Stromkreis ohne Spannungsquelle vorliegend ist (Stichwort Kirchhoffsche Maschenregel):*
 $$
 \begin{align}
 U_R(t) + U_C(t) &= \frac{Q(t)}{C} + R \cdot I(t) = 0 \\
