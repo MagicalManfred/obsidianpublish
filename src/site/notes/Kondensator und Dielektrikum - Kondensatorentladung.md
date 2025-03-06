@@ -21,6 +21,7 @@ Q(t) = Q_0 \cdot e^{-\frac{t}{R \cdot C}}
 $$
 → mit $U(t) = \frac{Q(t)}{C}$ ergibt sich insgesamt:
 $$
+\large
 U(t) = U_0 \cdot e^{-\frac{t}{R \cdot C}}
 $$
 ___
@@ -32,11 +33,14 @@ U(T_H) &= 2 \cdot U(T_H) \cdot e^{-\frac{T_H}{R \cdot C}}\\
 \frac{1}{2} &= e^{-\frac{T_H}{R \cdot C}}\\
 -ln(2) &= -\frac{T_H}{R \cdot C}\\
 -ln(2) \cdot R \cdot C &= -T_H\\
+\\
+\large
 T_H &= R \cdot C \cdot ln(2)
 \end{align}
 $$
 ... womit sich mit der ersten Formel: $U(t) = U_0 \cdot e^{-ln(2) \cdot \frac{t}{t_{H}}}$  wieder die finale Gleichung ergibt:
 $$
+\large
 U(t) = U_0 \cdot e^{-\frac{t}{R \cdot C}}
 $$
 (die hier 😉).
