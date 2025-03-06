@@ -16,7 +16,10 @@ I(t) &= -\frac{Q(t)}{R \cdot C} \\
 \dot{Q} &= -\frac{Q(t)}{R \cdot C}
 \end{align}
 $$
-→ die letzte Zeile stellt eine **Differenzialgleichung** da d.h. verknüpft die Funktion $Q(t)$ zu jedem Zeitpunkt $t$ mit ihrer Ableitung nach der Zeit $\dot{Q}(t)$. Gesucht ist somit eine Funktion $Q(t)$ , die proportional zu ihrer eigenen Ableitung ist. So etwas tritt auch bei der Exponentialfunktion in ihrer Grundform auf $\large y(x) = y_0 \cdot e^{c\cdot x}$. Löst man die Differenzialgleichung nach $Q(t)$ um und schreibt sie als e-Funktion, ergibt sich: $$ \large Q(t) = Q_0 \cdot e^{-\frac{t}{R \cdot C}}$$
+→ die letzte Zeile stellt eine **Differenzialgleichung** da d.h. verknüpft die Funktion $Q(t)$ zu jedem Zeitpunkt $t$ mit ihrer Ableitung nach der Zeit $\dot{Q}(t)$. Gesucht ist somit eine Funktion $Q(t)$ , die proportional zu ihrer eigenen Ableitung ist. So etwas tritt auch bei der Exponentialfunktion in ihrer Grundform auf $\large y(x) = y_0 \cdot e^{c\cdot x}$. Löst man die Differenzialgleichung nach $Q(t)$ um und schreibt sie als e-Funktion, ergibt sich:
+$$
+\large Q(t) = Q_0 \cdot e^{-\frac{t}{R \cdot C}}
+$$
 → mit $\large U(t) = \frac{Q(t)}{C}$ ergibt sich insgesamt:
 $$
 \Huge
