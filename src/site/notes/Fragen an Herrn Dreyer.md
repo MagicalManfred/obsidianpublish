@@ -4,7 +4,7 @@
 
 # Fragen an Herrn Dreyer
 1. Als wir den *Einzelspalt* behandelt haben, haben wir eine allgemeine Formel für die Berechnung bzw. das Zustandekommen der Minima, allerdings nur eine für die erste Ordnung spezifische Formel für die Maxima, hergeleitet. Kann man für die allgemeine Berechnung der Maxima die Formel der Wellenwanne verwenden? Also:
-	**Minima:** $\large \Delta(s) = k \cdot \lambda$ → $\large sin(\alpha) = k \cdot \frac{\lambda}{B}$
+	**Minima:** $\Delta(s) = k \cdot \lambda$ → $\large sin(\alpha) = k \cdot \frac{\lambda}{B}$
 	**Maxima:** $\large \Delta(s) = \frac{2 \cdot k + 1}{2} \cdot \lambda$ → $\large sin(\alpha) = \frac{2 \cdot k + 1}{2} \cdot \frac{\lambda}{B}$
 2. Bei [LEIFIphysik](https://www.leifiphysik.de/atomphysik/atomarer-energieaustausch/versuche/franck-hertz-versuch-mit-hg#:~:text=Bei%20der%20Einstrahlung,als%20kinetische%20Energie.) steht zum *Frank-Herz-Versuch*:
 > Bei der Einstrahlung von Licht kann ein Atom nur dann vom Grundzustand mit der Energie $E_1$ in den angeregten Zustand mit der Energie übergehen, wenn ein Lichtquant exakt die Energie $h \cdot f = E_2 - E_1$ hat. Im Unterschied dazu kann ein Atom auch durch Stoß von Elektronen mit der Energie $E_{kin} > E_2 - E_1$ angeregt werden. Die restliche Energie behalten die Elektronen dann als kinetische Energie. 
