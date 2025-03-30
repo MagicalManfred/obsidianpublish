@@ -3,7 +3,7 @@
 ---
 
 # Fragen an Herrn Dreyer
-1. Als wir den *Einzelspalt* behandelt haben, haben wir eine allgemeine Formel für die Berechnung bzw. das Zustandekommen der Minima, allerdings nur eine für die erste Ordnung spezifische Formel für die Maxima, hergeleitet. Kann man für die allgemeine Berechnung der Maxima die Formel der Wellenwanne verwenden? Also:
+1. Als wir den *Einzelspalt* behandelt haben, haben wir eine allgemeine Formel für die Berechnung bzw. das Zustandekommen der Minima, allerdings nur eine für die erste Ordnung spezifische Formel für die Maxima hergeleitet. Kann man für die allgemeine Berechnung der Maxima die Formel der Wellenwanne verwenden? Also:
 	**Minima:** $\Delta(s) = k \cdot \lambda$ → $\large sin(\alpha) = k \cdot \frac{\lambda}{B}$
 	**Maxima:** $\Delta(s) = \frac{2 \cdot k + 1}{2} \cdot \lambda$ → $sin(\alpha) = \frac{2 \cdot k + 1}{2} \cdot \frac{\lambda}{B}$
 2. Bei [LEIFIphysik](https://www.leifiphysik.de/atomphysik/atomarer-energieaustausch/versuche/franck-hertz-versuch-mit-hg#:~:text=Bei%20der%20Einstrahlung,als%20kinetische%20Energie.) steht zum *Frank-Herz-Versuch*:
