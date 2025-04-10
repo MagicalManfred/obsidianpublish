@@ -9,8 +9,8 @@
 - [[Musik Abitur eA- Zusätzliches\|Musik Abitur eA- Zusätzliches]]
 - [[Philosophie Abitur gA - Zusätzliches\|Philosophie Abitur gA - Zusätzliches]]
 - [[Englisch Abitur gA\|Englisch Abitur gA]]
-# Archive:
-- [[Kondensator und Dielektrikum - Kondensatorentladung\|Kondensator und Dielektrikum - Kondensatorentladung]]
-- [[Neue Musik - Recap\|Neue Musik - Recap]]
-- [[Stressbewältigung durch Sport\|Stressbewältigung durch Sport]]
-- [[Fragen an Herrn Dreyer\|Fragen an Herrn Dreyer]]
+# *Archive:*
+- *[[Kondensator und Dielektrikum - Kondensatorentladung\|Kondensator und Dielektrikum - Kondensatorentladung]]*
+- *[[Neue Musik - Recap\|Neue Musik - Recap]]*
+- *[[Stressbewältigung durch Sport\|Stressbewältigung durch Sport]]*
+- *[[Fragen an Herrn Dreyer\|Fragen an Herrn Dreyer]]*
