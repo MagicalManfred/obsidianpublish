@@ -11,4 +11,6 @@
 - [4:15](https://youtu.be/tGDIxGo1wV8?t=255) Stellt Empirismus in Frage → Sinne können täuschen, daher kann sich nicht darauf verlassen werden
 - [5:53](https://youtu.be/tGDIxGo1wV8?t=354) Traumargument
 - [6:40](https://youtu.be/tGDIxGo1wV8?t=400) Universelle Wahrheit in der Mathematik → allmächtiger Gott könnte uns täuschen, Gott ist aber gütig, deshalb ist das ein **böser Geist**
-- [8:46](https://youtu.be/tGDIxGo1wV8?t=526) Cogito-Argument → böser Geist kann nicht die Nichtexistenz bewirken, da man solange ist, wie man denkt
+- [8:46](https://youtu.be/tGDIxGo1wV8?t=526) Cogito-Argument → böser Geist kann nicht die Nichtexistenz bewirken, da man solange ist, wie man denkt → Ausgangspunkt auf der Erkenntnis aufbauen kann
+- [10:12](https://youtu.be/tGDIxGo1wV8?t=612) Vernunft ist daher Ausgangspunkt jeder Erkenntnis
+- [10:35](https://youtu.be/tGDIxGo1wV8?t=636) Wachsbeispiel → ein Stück Wachs verliert am Feuer alle seine Eigenschaften, bleibt aber halt Wachs, da man das Wachs mit dem Geist und nicht den Sinnen wahrgenommen wird
