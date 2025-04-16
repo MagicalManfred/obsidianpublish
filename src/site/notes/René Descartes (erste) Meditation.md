@@ -21,6 +21,6 @@
 	- **angeborene Ideen**: Größe (Zahlen, geometrische Figuren) - OHNE Sinneswahrnehmungen, wahr, unveränderlich und unanzweifelbar
 - [16:40](https://youtu.be/tGDIxGo1wV8?t=1000) Intuition und Deduktion (gleichberechtigt):
 	- **Intuition**: einfaches, instinktes Begreifen → z.B. eigene Existenz (sehr deutlich ohne langes Nachdenken)
-	- **Deduktion**: Ableitungen die sich aus Notwendigkeiten ergeben ($2+2=4$ & $3+1=4$ → $2+2=3+1$)
+	- **Deduktion**: Ableitungen die sich aus Notwendigkeiten ergeben ($2+2=4$ und $3+1=4$ ergo $2+2=3+1$)
 	- → es können intuitiv Tatsachen erkannt werden und durch die Deduktion weitergeführt werden, um neue, nicht offensichtliche Erkenntnisse zu erlangen, zu welchen die Intuition nicht fähig ist
 - [18:55](https://youtu.be/tGDIxGo1wV8?t=1134) Intuition und Deduktion sollten Maßstab jeder Wissenschaft sein → einzig gehbare Wege zur Erkenntnis
