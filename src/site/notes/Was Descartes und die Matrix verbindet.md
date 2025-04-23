@@ -5,6 +5,7 @@
 # Was Descartes und die Matrix verbindet
 [Video zur Matrix - YouTube](https://www.youtube.com/watch?v=KAN2RL0vkYU)
 <iframe width="685,2" height="319,2" src="https://www.youtube.com/embed/KAN2RL0vkYU" title="Warum wir längst in der Matrix leben (Science vs. Fiction)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - [0:47](https://youtu.be/KAN2RL0vkYU?t=48) Sinne können täuschen → in der Matrix werden Sinneseindrücke nur vorgetäuscht
 - tldr: technisch könnte es möglich sein, Stichworte sind:
 	- rasante Entwicklung von realistischen Computerspielen
