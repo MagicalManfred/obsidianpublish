@@ -4,4 +4,5 @@
 
 # Zusätzliches zum Musik-Abitur
 ## Merken:
-- Melodieverlauf nach oben → Frage
+- **Melodieverlauf nach oben** → Frage oder Unsicherheit (Frage ohne diese Melodieführung steht eventuell für Zustimmung)
+- 
