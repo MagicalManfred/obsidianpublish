@@ -3,6 +3,7 @@
 ---
 
 # Zusätzliches zum Philosophie Abitur
+[[Fragen zu Philo\|Fragen zu Philo]]
 ## Erkenntnistheorie und Wahrheit
 - [Realismus - Spektrum](https://www.spektrum.de/lexikon/philosophie/realismus/1734)
 - [[Stellungnahme zum Zitat von Julian Nida-Rümelin\|Stellungnahme zum Zitat von Julian Nida-Rümelin]]
