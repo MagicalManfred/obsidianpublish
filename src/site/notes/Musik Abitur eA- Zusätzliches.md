@@ -9,3 +9,7 @@
 - Fermate und Punktierung als Zögern, kann Spannung hervorrufen
 - **sforzato**: forciert und stark hervorgehoben
 - **sforzando**: stark betont, plötzlich laut
+- forte → überzeugend, piano → leise, unsicher (alles beispielsweise)
+- Stimmführung:
+	- **sukzessiv**: nacheinander
+	- **simultan**: zusammen
