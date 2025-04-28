@@ -13,3 +13,8 @@
 - [[René Descartes (erste) Meditation\|René Descartes (erste) Meditation]]
 - [[Was Descartes und die Matrix verbindet\|Was Descartes und die Matrix verbindet]]
 - → [Erkenntnistheorie von Kant - Studysmarter](https://www.studysmarter.de/schule/psychologie/forschung-der-gedaechtnis/erkenntnistheorie/#:~:text=Erkenntnistheorie%20Kant%20%E2%80%93%20Die,in%20der%20Kognitionswissenschaft.)
+## Moralphilosophie
+Interessantes Zitat :
+> Die moderne Menschheit hat zwei Arten von Moral: eine, die sie predigt, aber nicht anwendet und eine andere, die sie anwendet, aber nicht predigt.
+
+\- *Bertrand Russell*
