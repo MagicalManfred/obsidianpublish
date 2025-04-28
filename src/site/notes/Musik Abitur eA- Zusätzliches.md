@@ -4,7 +4,7 @@
 
 # Zusätzliches zum Musik-Abitur
 ## Oper
-> [!tip] Merken
+> [!tip]+ Merken
 > - **Melodieverlauf nach oben** → Frage oder Unsicherheit (Frage ohne diese Melodieführung steht eventuell für Zustimmung)
 > - bei Analyse ne Einleitung mit allen Facts - auch Verlauf und Begleitung beschreiben
 > - Fermate und Punktierung als Zögern, kann Spannung hervorrufen
@@ -14,7 +14,9 @@
 > - Stimmführung:
 > 	- **sukzessiv**: nacheinander
 > 	- **simultan**: zusammen
-
+- [Don Giovanni - Aix-en-Provence 2017](https://www.youtube.com/watch?v=8wEMzWH52FA)
+- [Le Nozze di Figaro - Salzburg 2006 - Akt 1&2](https://www.youtube.com/watch?v=OvHwfMycXTU&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
+- [Le Nozze di Figaro - Salzburg 2006 - Akt 3&4](https://www.youtube.com/watch?v=SVyxjDNStWM&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
 ## [[Neue Musik - Recap\|Neue Musik - Recap]]
 ## Polyphonie bei Bach
 ...
