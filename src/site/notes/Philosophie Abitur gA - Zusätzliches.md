@@ -3,6 +3,9 @@
 ---
 
 # Zusätzliches zum Philosophie-Abitur
+> [!tip] Merken
+> - **Paradigma**: ein anerkanntes Modell oder Beispiel
+
 [[Fragen zu Philo\|Fragen zu Philo]]
 ## Erkenntnistheorie und Wahrheit
 - → [Realismus - Spektrum](https://www.spektrum.de/lexikon/philosophie/realismus/1734)
