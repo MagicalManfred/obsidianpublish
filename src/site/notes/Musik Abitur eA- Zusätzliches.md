@@ -14,12 +14,15 @@
 > - Stimmführung:
 > 	- **sukzessiv**: nacheinander
 > 	- **simultan**: zusammen
-- [Don Giovanni - Aix-en-Provence 2017](https://www.youtube.com/watch?v=8wEMzWH52FA)
-- [Le Nozze di Figaro - Salzburg 2006 - Akt 1&2](https://www.youtube.com/watch?v=OvHwfMycXTU&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
-- [Le Nozze di Figaro - Salzburg 2006 - Akt 3&4](https://www.youtube.com/watch?v=SVyxjDNStWM&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
+
+> [!note]+ YouTube Videos zu den Opern
+> - [Don Giovanni - Aix-en-Provence 2017](https://www.youtube.com/watch?v=8wEMzWH52FA)
+> - [Le Nozze di Figaro - Salzburg 2006 - Akt 1&2](https://www.youtube.com/watch?v=OvHwfMycXTU&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
+> - [Le Nozze di Figaro - Salzburg 2006 - Akt 3&4](https://www.youtube.com/watch?v=SVyxjDNStWM&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
 ## [[Neue Musik - Recap\|Neue Musik - Recap]]
 ## Polyphonie bei Bach
 > [!note]+ Sonatenhauptsatzform
 > - Wenn das erste Thema in Dur erscheint ist das zweite Thema auf der Dominanten
 > - Wenn das erste Thema in Moll erscheint ist das zweite Thema auf der Tonikaparallelen
 
+→ Kontrapunkt kann je nachdem ob er zum Dux oder Comes erklingt anders sein.
