@@ -22,7 +22,7 @@
 ## [[Neue Musik - Recap\|Neue Musik - Recap]]
 ## Polyphonie bei Bach
 > [!tip]+ Merken
-> → Kontrapunkt kann je nachdem ob er zum Dux oder Comes erklingt anders sein.
+> → Kontrapunkt kann, je nachdem ob er zum Dux oder Comes erklingt, anders sein.
 > - Wie viele Stimmen hat die Fuge:
 > 	1. Stimmen verfolgen
 > 	2. Checken, wie tief verschiedene Stimmen gehen und Übergänge finden
@@ -31,11 +31,11 @@
 > 	5. Baugefühl vertrauen (Stimmen: Sopran, Alt, Tenor, Bass)
 > - [Codetta](https://www.earsense.org/Earsense/WTC/Vocabulary/codetta.html): Zwischenspiel zwischen zwei Themen in der Exposition
 > - Orgelpunkt kann in jeder Stimme auftauchen
-> - Piccardische Terz: Dur statt Moll
+> - Picardische Terz: Dur statt Moll
 > - beim Analysieren von Fugen: auf ne Schlusskadenz achten
 
 > [!note]+ Sonatenhauptsatzform
-> - Wenn das erste Thema in Dur erscheint ist das zweite Thema auf der Dominanten
-> - Wenn das erste Thema in Moll erscheint ist das zweite Thema auf der Tonikaparallelen
+> - Wenn das erste Thema in Dur erscheint, ist das zweite Thema auf der Dominanten
+> - Wenn das erste Thema in Moll erscheint, ist das zweite Thema auf der Tonikaparallelen
 - [Tutorial wie man eine Invention schreibt](https://openmusic.academy/docs/w9NWKDfZPgMbVh5YUnPbk1/musikhochschule-stiluebung-barock-zweistimmiger-kontrapunkt-invention)
 - Doppelfuge: zwei kontrastierende Themen
