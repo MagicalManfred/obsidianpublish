@@ -19,4 +19,7 @@
 - [Le Nozze di Figaro - Salzburg 2006 - Akt 3&4](https://www.youtube.com/watch?v=SVyxjDNStWM&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
 ## [[Neue Musik - Recap\|Neue Musik - Recap]]
 ## Polyphonie bei Bach
-...
+> [!note]+ Sonatenhauptsatzform
+> - Wenn das erste Thema in Dur erscheint ist das zweite Thema auf der Dominanten
+> - Wenn das erste Thema in Moll erscheint ist das zweite Thema auf der Tonikaparallelen
+
