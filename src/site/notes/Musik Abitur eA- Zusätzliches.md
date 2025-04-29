@@ -26,3 +26,9 @@
 > - Wenn das erste Thema in Moll erscheint ist das zweite Thema auf der Tonikaparallelen
 
 → Kontrapunkt kann je nachdem ob er zum Dux oder Comes erklingt anders sein.
+- Wie viele Stimmen hat die Fuge:
+	1. Stimmen verfolgen
+	2. Checken, wie tief verschiedene Stimmen gehen und Übergänge finden
+	3. Dicht „besiedelte“ Stellen angucken und beurteilen
+	4. Pausenzeichen und Notenhälse zum Zählen verwenden
+	5. Baugefühl vertrauen (Stimmen: Sopran, Alt, Tenor, Bass)
