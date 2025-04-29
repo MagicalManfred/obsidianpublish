@@ -15,20 +15,27 @@
 > 	- **sukzessiv**: nacheinander
 > 	- **simultan**: zusammen
 
-> [!note]+ YouTube Videos zu den Opern
-> - [Don Giovanni - Aix-en-Provence 2017](https://www.youtube.com/watch?v=8wEMzWH52FA)
-> - [Le Nozze di Figaro - Salzburg 2006 - Akt 1&2](https://www.youtube.com/watch?v=OvHwfMycXTU&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
-> - [Le Nozze di Figaro - Salzburg 2006 - Akt 3&4](https://www.youtube.com/watch?v=SVyxjDNStWM&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
+### YouTube Videos zu den Opern
+- [Don Giovanni - Aix-en-Provence 2017](https://www.youtube.com/watch?v=8wEMzWH52FA)
+- [Le Nozze di Figaro - Salzburg 2006 - Akt 1&2](https://www.youtube.com/watch?v=OvHwfMycXTU&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
+- [Le Nozze di Figaro - Salzburg 2006 - Akt 3&4](https://www.youtube.com/watch?v=SVyxjDNStWM&pp=ygUUZmlnYXJvIHNhbHpidXJnIDIwMDY%3D)
 ## [[Neue Musik - Recap\|Neue Musik - Recap]]
 ## Polyphonie bei Bach
+> [!tip]+ Merken
+> → Kontrapunkt kann je nachdem ob er zum Dux oder Comes erklingt anders sein.
+> - Wie viele Stimmen hat die Fuge:
+> 	1. Stimmen verfolgen
+> 	2. Checken, wie tief verschiedene Stimmen gehen und Übergänge finden
+> 	3. Dicht „besiedelte“ Stellen angucken und beurteilen
+> 	4. Pausenzeichen und Notenhälse zum Zählen verwenden
+> 	5. Baugefühl vertrauen (Stimmen: Sopran, Alt, Tenor, Bass)
+> - [Codetta](https://www.earsense.org/Earsense/WTC/Vocabulary/codetta.html): Zwischenspiel zwischen zwei Themen in der Exposition
+> - Orgelpunkt kann in jeder Stimme auftauchen
+> - Piccardische Terz: Dur statt Moll
+> - beim Analysieren von Fugen: auf ne Schlusskadenz achten
+
 > [!note]+ Sonatenhauptsatzform
 > - Wenn das erste Thema in Dur erscheint ist das zweite Thema auf der Dominanten
 > - Wenn das erste Thema in Moll erscheint ist das zweite Thema auf der Tonikaparallelen
-
-→ Kontrapunkt kann je nachdem ob er zum Dux oder Comes erklingt anders sein.
-- Wie viele Stimmen hat die Fuge:
-	1. Stimmen verfolgen
-	2. Checken, wie tief verschiedene Stimmen gehen und Übergänge finden
-	3. Dicht „besiedelte“ Stellen angucken und beurteilen
-	4. Pausenzeichen und Notenhälse zum Zählen verwenden
-	5. Baugefühl vertrauen (Stimmen: Sopran, Alt, Tenor, Bass)
+- [Tutorial wie man eine Invention schreibt](https://openmusic.academy/docs/w9NWKDfZPgMbVh5YUnPbk1/musikhochschule-stiluebung-barock-zweistimmiger-kontrapunkt-invention)
+- Doppelfuge: zwei kontrastierende Themen
