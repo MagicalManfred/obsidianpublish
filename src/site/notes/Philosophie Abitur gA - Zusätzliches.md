@@ -19,3 +19,11 @@ Interessantes Zitat :
 > Die moderne Menschheit hat zwei Arten von Moral: eine, die sie predigt, aber nicht anwendet und eine andere, die sie anwendet, aber nicht predigt.
 
 \- *Bertrand Russell*
+___
+- Gute Videoreihe zur antiken Ethik nach Aristoteles:
+	- [Aristoteles | Welt- und Menschenbild](https://www.youtube.com/watch?v=rdWhGEXY7w8)
+	- [Aristoteles | Eudaimonia - Glück als höchstes Lebensziel](https://www.youtube.com/watch?v=uYjR6BTsiiA)
+	- [Aristoteles | Wie ist die Seele aufgebaut? | Seelenlehre](https://www.youtube.com/watch?v=oWeOvCYb_XQ)
+	- [Aristoteles | Tugend als Mitte | Mesoteslehre/ Tugendlehre](https://www.youtube.com/watch?v=DJ0mWTSihGQ)
+## Anthropologie:
+- [René Descartes' Skeptizismus und Substanzdualismus](https://www.youtube.com/watch?v=E03wVIBJfTA)
