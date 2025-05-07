@@ -14,6 +14,9 @@
 > - Stimmführung:
 > 	- **sukzessiv**: nacheinander
 > 	- **simultan**: zusammen
+> - Wortton-Verhältnis:
+> 	- **syllabisch**: jede Silbe des Textes hat eine Note
+> 	- **melismatisch**: mehrere Noten pro Silbe
 
 ### YouTube Videos zu den Opern
 - [Don Giovanni - Aix-en-Provence 2017](https://www.youtube.com/watch?v=8wEMzWH52FA)
