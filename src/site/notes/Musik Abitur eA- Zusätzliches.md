@@ -10,13 +10,14 @@
 > - Fermate und Punktierung als Zögern, kann Spannung hervorrufen
 > - **sforzato**: forciert und stark hervorgehoben
 > - **sforzando**: stark betont, plötzlich laut
-> - forte → überzeugend, piano → leise, unsicher (alles beispielsweise)
+> - forte → überzeugend; piano → leise, unsicher (alles beispielsweise)
 > - Stimmführung:
 > 	- **sukzessiv**: nacheinander
 > 	- **simultan**: zusammen
 > - Wortton-Verhältnis:
 > 	- **syllabisch**: jede Silbe des Textes hat eine Note
 > 	- **melismatisch**: mehrere Noten pro Silbe
+> - **parlando**: kurze, schnelle Notenwerte; Sprechgesang der Opera Buffa
 
 ### YouTube Videos zu den Opern
 - [Don Giovanni - Aix-en-Provence 2017](https://www.youtube.com/watch?v=8wEMzWH52FA)
@@ -36,6 +37,9 @@
 > - Orgelpunkt kann in jeder Stimme auftauchen
 > - Picardische Terz: Dur statt Moll
 > - beim Analysieren von Fugen: auf ne Schlusskadenz achten
+> - Kontrapunkt:
+> 	- **fakultativ**: nicht gleich
+> 	- **obligat**: gleich
 
 > [!note]+ Sonatenhauptsatzform
 > - Wenn das erste Thema in Dur erscheint, ist das zweite Thema auf der Dominanten
